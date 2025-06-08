@@ -10,7 +10,7 @@ OpenAI provides state-of-the-art language models like GPT-4, Codex, and Whisper,
 
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
-- [Model](#models)
+- [Models](#models)
 - [Libraries & SDKs](#libraries--sdks)
 - [Developer Tools](#developer-tools)
 - [Prompts & Datasets](#prompts--datasets)
